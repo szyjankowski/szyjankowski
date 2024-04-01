@@ -16,11 +16,12 @@ I'm always looking to expand my skill set. Currently, I'm diving deeper into:
 - Exploring frontend frameworks like React or Vue.js to enhance my full-stack capabilities.
 - Understanding best practices in web security.
 
-## 🎯 Goals for 2023
+## 🎯 Goals for 2024
 This year, my focus is on:
 - Building and contributing to more open-source Django projects.
 - Enhancing my portfolio with diverse and challenging projects.
 - Connecting and collaborating with other web developers in the community.
+- Creating some cool reverse engineering projects
 
 ## 📫 How to Reach Me
 Feel free to connect with me by dropping an email at `fuungguss@gmail.com`.
